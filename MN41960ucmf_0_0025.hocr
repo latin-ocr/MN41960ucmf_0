@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41960ucmf_0_0025.png"; bbox 0 0 1818 3237; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 1111 539 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 1111 539 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 336 1111 539 1155; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 336 1111 539 1155; x_wconf 76' lang='lat' dir='ltr'>DISPUTATIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 95 1518 780 1578">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 1518 780 1578">
+     <span class='ocr_line' id='line_1_2' title="bbox 95 1518 780 1578; baseline -0.003 -10"><span class='ocrx_word' id='word_1_2' title='bbox 95 1519 188 1568; x_wconf 75' lang='lat' dir='ltr'>LOCIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 211 1519 391 1568; x_wconf 83' lang='lat' dir='ltr'><strong>EUANGELH</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 410 1519 588 1578; x_wconf 81' lang='lat' dir='ltr'><strong>IOHANNIS,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 605 1519 642 1568; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 659 1518 780 1574; x_wconf 78' lang='lat' dir='ltr'>QUIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 153 1616 728 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 153 1616 728 1765">
+     <span class='ocr_line' id='line_1_3' title="bbox 153 1616 719 1667; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 153 1617 223 1666; x_wconf 75' lang='lat' dir='ltr'><strong>IPSE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 240 1617 372 1666; x_wconf 75' lang='lat' dir='ltr'><strong>AUCTOR</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 387 1616 496 1666; x_wconf 73' lang='lat' dir='ltr'><strong>VERBA</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 516 1618 591 1666; x_wconf 73' lang='lat' dir='ltr'><strong>fflsU</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 609 1618 719 1667; x_wconf 70' lang='lat' dir='ltr'>INTER-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 311 1694 728 1765; baseline 0.002 -1"><span class='ocrx_word' id='word_1_12' title='bbox 311 1716 475 1765; x_wconf 71' lang='lat' dir='ltr'><strong>PRETATUS</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 499 1716 563 1765; x_wconf 73' lang='lat' dir='ltr'>EST.</span> <span class='ocrx_word' id='word_1_14' title='bbox 726 1694 728 1697; x_wconf 77' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 914 3237">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 914 3237">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 914 3237; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 914 3237; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
